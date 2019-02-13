@@ -1,0 +1,19 @@
+{
+  "name": "popcorn_dls",
+  "version": "1.0.0",
+  "description": "A design language system for Populix named Popcorn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Populix/PopcornDLS.git"
+  },
+  "author": "populix_dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Populix/PopcornDLS/issues"
+  },
+  "homepage": "https://github.com/Populix/PopcornDLS#readme"
+}
